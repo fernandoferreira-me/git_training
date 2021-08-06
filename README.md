@@ -3,4 +3,4 @@
 
 That's the whole deal
 
-##  This a class for git begginers
+##  This a class for git beginners
