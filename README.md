@@ -7,4 +7,5 @@ That's the whole deal
 
 * First create a local repository: `git init`
 * Then, add files to index: `git add file`
-* Finally, commit the new file to local repository and be happy.
+* Next, commit the new file to local repository and be happy.
+* Now, push to the remote repository with `git push`
